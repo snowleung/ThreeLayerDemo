@@ -1,0 +1,11 @@
+D:\myworkSpace\vs2008Solution\ThreeLayerDemo\BLL\bin\Debug\BLL.dll
+D:\myworkSpace\vs2008Solution\ThreeLayerDemo\BLL\bin\Debug\BLL.pdb
+D:\myworkSpace\vs2008Solution\ThreeLayerDemo\BLL\obj\Debug\ResolveAssemblyReference.cache
+D:\myworkSpace\vs2008Solution\ThreeLayerDemo\BLL\obj\Debug\BLL.dll
+D:\myworkSpace\vs2008Solution\ThreeLayerDemo\BLL\obj\Debug\BLL.pdb
+D:\myworkSpace\vs2008Solution\ThreeLayerDemo\BLL\bin\Debug\Database1.mdf
+D:\myworkSpace\vs2008Solution\ThreeLayerDemo\BLL\bin\Debug\Database1_log.ldf
+D:\myworkSpace\vs2008Solution\ThreeLayerDemo\BLL\bin\Debug\DAL.dll
+D:\myworkSpace\vs2008Solution\ThreeLayerDemo\BLL\bin\Debug\Model.dll
+D:\myworkSpace\vs2008Solution\ThreeLayerDemo\BLL\bin\Debug\Model.pdb
+D:\myworkSpace\vs2008Solution\ThreeLayerDemo\BLL\bin\Debug\DAL.pdb

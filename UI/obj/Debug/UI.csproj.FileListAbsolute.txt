@@ -1,0 +1,14 @@
+D:\myworkSpace\vs2008Solution\ThreeLayerDemo\UI\bin\Debug\UI.exe
+D:\myworkSpace\vs2008Solution\ThreeLayerDemo\UI\bin\Debug\UI.pdb
+D:\myworkSpace\vs2008Solution\ThreeLayerDemo\UI\obj\Debug\ResolveAssemblyReference.cache
+D:\myworkSpace\vs2008Solution\ThreeLayerDemo\UI\obj\Debug\UI.Properties.Resources.resources
+D:\myworkSpace\vs2008Solution\ThreeLayerDemo\UI\obj\Debug\UI.csproj.GenerateResource.Cache
+D:\myworkSpace\vs2008Solution\ThreeLayerDemo\UI\obj\Debug\UI.exe
+D:\myworkSpace\vs2008Solution\ThreeLayerDemo\UI\obj\Debug\UI.pdb
+D:\myworkSpace\vs2008Solution\ThreeLayerDemo\UI\bin\Debug\BLL.dll
+D:\myworkSpace\vs2008Solution\ThreeLayerDemo\UI\bin\Debug\Model.dll
+D:\myworkSpace\vs2008Solution\ThreeLayerDemo\UI\bin\Debug\Model.pdb
+D:\myworkSpace\vs2008Solution\ThreeLayerDemo\UI\bin\Debug\BLL.pdb
+D:\myworkSpace\vs2008Solution\ThreeLayerDemo\UI\obj\Debug\UI.Form1.resources
+D:\myworkSpace\vs2008Solution\ThreeLayerDemo\UI\bin\Debug\DAL.dll
+D:\myworkSpace\vs2008Solution\ThreeLayerDemo\UI\bin\Debug\DAL.pdb

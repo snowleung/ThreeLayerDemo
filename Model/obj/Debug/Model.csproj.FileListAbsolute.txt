@@ -1,0 +1,5 @@
+D:\myworkSpace\vs2008Solution\ThreeLayerDemo\Model\bin\Debug\Model.dll
+D:\myworkSpace\vs2008Solution\ThreeLayerDemo\Model\bin\Debug\Model.pdb
+D:\myworkSpace\vs2008Solution\ThreeLayerDemo\Model\obj\Debug\ResolveAssemblyReference.cache
+D:\myworkSpace\vs2008Solution\ThreeLayerDemo\Model\obj\Debug\Model.dll
+D:\myworkSpace\vs2008Solution\ThreeLayerDemo\Model\obj\Debug\Model.pdb
