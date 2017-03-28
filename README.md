@@ -44,5 +44,5 @@ DAL[代码](https://github.com/snowleung/ThreeLayerDemo/blob/master/DAL/UsersSer
 * BLL和DAL层，通过实例化的类进行通讯（如成功返回一个[UserModel](https://github.com/snowleung/ThreeLayerDemo/blob/master/Model/Users.cs)）
 * DAL层和数据库，通过DataSet类进行通讯（如有数据则返回一个DataSet）
 
-##REFERENCE
+## REFERENCE
 * WIKI: [Three-tier architecture](https://en.wikipedia.org/wiki/Multitier_architecture#Three-tier_architecture)
